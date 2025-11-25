@@ -14,6 +14,19 @@ The code has been tested on **Ubuntu 20.04**. Please ensure the following depend
 * **Eigen3:** ≥ 3.1.0
 * **Pangolin:** (Required for UI dependencies)
 
+## Project Structure 项目结构
+
+gcg_code/
+├── include/          # Header files
+├── src/              # Source code
+├── Euroc/            # Sample trajectory files
+├── CMakeLists.txt    # CMake build script
+├── README.md         # Project documentation
+└── LICENSE           # Open-source license
+
+
+
+
 ## 2. Build Instructions 
 
 Clone the repository and compile the project using CMake:
@@ -78,3 +91,17 @@ evo_ape tum Euroc/MH01/state_groundtruth_estimate0/groundtruth.tum Euroc/MH01/st
 
 ## 5. License
 This source code is released under the MIT License.
+
+## Citation
+
+If you use this code in your research, please cite:
+
+@misc{Du2025GCG,
+title={Research on Visual SLAM in Low Illumination Environment Based on Image Contrast Enhancement},
+author={Du, Haoyu},
+year={2025},
+note={Preprint},
+url={https://github.com/DuHaoYu780/gcg_code}
+
+}
+}
