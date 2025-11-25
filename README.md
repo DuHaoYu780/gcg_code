@@ -76,5 +76,5 @@ We also provide the trajectory results of the original ORB-SLAM3 (`ORBSLAM3.txt`
 evo_ape tum Euroc/MH01/state_groundtruth_estimate0/groundtruth.tum Euroc/MH01/state_groundtruth_estimate0/ORBSLAM3.txt -va
 ```
 
-5. License
+## 5. License
 This source code is released under the MIT License.
