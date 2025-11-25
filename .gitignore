@@ -1,0 +1,23 @@
+# Build folders
+build/
+cmake-build*/
+
+# OS files
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+
+# Data (large)
+Euroc/*.zip
+Euroc/*.bag
+Euroc/*.txt
+
+# Backup
+*.bak
