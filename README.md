@@ -93,7 +93,7 @@ The following heatmap comparison demonstrates the improvement of our method (GCG
 
 | **Baseline (ORB-SLAM3)** | **Ours (GCG-ORB)** |
 | :---: | :---: |
-| ![Baseline](Baseline_heatmap.png) | ![Ours](Ours_heatmap.png) |
+| ![Baseline](03Baseline_heatmap.png) | ![03Ours](Ours_heatmap.png) |
 | *Notice the high-error (red/yellow) regions caused by tracking instability.* | *Significant reduction in error, showing a more stable blue trajectory.* |
 
 **Analysis:**
